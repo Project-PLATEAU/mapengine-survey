@@ -1,0 +1,2631 @@
+{
+  "type": "FeatureCollection",
+  "name": "13101_chiyoda-ku_landmark",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7390558095,
+          35.6740868424
+        ]
+      },
+      "properties": {
+        "名称": "九州旅客鉄道株式会社(東京支社)",
+        "高さ": "36.7",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7411747407,
+          35.6840021536
+        ]
+      },
+      "properties": {
+        "名称": "海難審判所",
+        "高さ": "55.9",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7480400491,
+          35.6717965811
+        ]
+      },
+      "properties": {
+        "名称": "金融庁",
+        "高さ": "177.6",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7457255202,
+          35.6708279179
+        ]
+      },
+      "properties": {
+        "名称": "特許庁",
+        "高さ": "86.8",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7466201328,
+          35.6906396629
+        ]
+      },
+      "properties": {
+        "名称": "千鳥ヶ淵戦没者墓苑管理事務所",
+        "高さ": "3.5",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7430006813,
+          35.6843810234
+        ]
+      },
+      "properties": {
+        "名称": "麹町警察署",
+        "高さ": "39",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7425875513,
+          35.6886184332
+        ]
+      },
+      "properties": {
+        "名称": "麹町警察署五味坂交番",
+        "高さ": "51.4",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7380493012,
+          35.6835589437
+        ]
+      },
+      "properties": {
+        "名称": "麹町警察署麹町四丁目交番",
+        "高さ": "52.4",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7361389515,
+          35.6913283045
+        ]
+      },
+      "properties": {
+        "名称": "麹町警察署市ケ谷見付交番",
+        "高さ": "9.1",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7454205725,
+          35.6882981034
+        ]
+      },
+      "properties": {
+        "名称": "麹町警察署千鳥ケ淵警備派出所",
+        "高さ": "4.3",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7445272212,
+          35.6839965325
+        ]
+      },
+      "properties": {
+        "名称": "麹町警察署半蔵門警備派出所",
+        "高さ": "11.2",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7439915541,
+          35.6999771736
+        ]
+      },
+      "properties": {
+        "名称": "麹町警察署飯田橋駅前交番",
+        "高さ": "5.6",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7432064319,
+          35.6850586932
+        ]
+      },
+      "properties": {
+        "名称": "東京消防庁第一消防方面本部",
+        "高さ": "31",
+        "種類": "消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7394563498,
+          35.6760309322
+        ]
+      },
+      "properties": {
+        "名称": "都立日比谷高等学校",
+        "高さ": "24.6",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7386650496,
+          35.6805726438
+        ]
+      },
+      "properties": {
+        "名称": "区立麹町中学校",
+        "高さ": "26.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7391190208,
+          35.6850132536
+        ]
+      },
+      "properties": {
+        "名称": "私立麹町学園女子高等学校",
+        "高さ": "31.3",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7318453108,
+          35.6872253744
+        ]
+      },
+      "properties": {
+        "名称": "私立雙葉高等学校",
+        "高さ": "34",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7324520808,
+          35.6874819843
+        ]
+      },
+      "properties": {
+        "名称": "私立雙葉小学校",
+        "高さ": "28.2",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7385676315,
+          35.6875587039
+        ]
+      },
+      "properties": {
+        "名称": "私立女子学院高等学校",
+        "高さ": "29.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7340953205,
+          35.6880587041
+        ]
+      },
+      "properties": {
+        "名称": "区立番町小学校",
+        "高さ": "21.5",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7388139407,
+          35.688359034
+        ]
+      },
+      "properties": {
+        "名称": "私立武蔵野大学附属千代田高等学院",
+        "高さ": "23.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7405505123,
+          35.690291124
+        ]
+      },
+      "properties": {
+        "名称": "区立九段小学校",
+        "高さ": "19.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7421326818,
+          35.6914417435
+        ]
+      },
+      "properties": {
+        "名称": "東京家政学院大学千代田三番町キャンパス",
+        "高さ": "32.9",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7417837619,
+          35.6911673433
+        ]
+      },
+      "properties": {
+        "名称": "私立東京家政学院高等学校",
+        "高さ": "34.5",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7405144231,
+          35.6947020139
+        ]
+      },
+      "properties": {
+        "名称": "私立三輪田学園高等学校",
+        "高さ": "27.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.744135123,
+          35.695509353
+        ]
+      },
+      "properties": {
+        "名称": "私立白百合学園高等学校",
+        "高さ": "21.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7489010539,
+          35.6966697838
+        ]
+      },
+      "properties": {
+        "名称": "私立和洋九段女子高等学校",
+        "高さ": "31.3",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7481689536,
+          35.6969681736
+        ]
+      },
+      "properties": {
+        "名称": "私立暁星高等学校",
+        "高さ": "31",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7484258739,
+          35.6984657436
+        ]
+      },
+      "properties": {
+        "名称": "私立暁星小学校",
+        "高さ": "31.2",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7397966206,
+          35.6855343135
+        ]
+      },
+      "properties": {
+        "名称": "区立麹町小学校",
+        "高さ": "25.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7440837828,
+          35.6912088333
+        ]
+      },
+      "properties": {
+        "名称": "大妻女子大学千代田キャンパス",
+        "高さ": "57.9",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7457398325,
+          35.6922128633
+        ]
+      },
+      "properties": {
+        "名称": "二松學舍大学九段キャンパス",
+        "高さ": "64.3",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7464283536,
+          35.6925249532
+        ]
+      },
+      "properties": {
+        "名称": "私立二松學舍大学附属高等学校",
+        "高さ": "28.9",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7406685032,
+          35.6953136347
+        ]
+      },
+      "properties": {
+        "名称": "法政大学市ヶ谷キャンパス",
+        "高さ": "126.8",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7433903719,
+          35.6900858328
+        ]
+      },
+      "properties": {
+        "名称": "私立大妻高等学校",
+        "高さ": "42.9",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7458732432,
+          35.6977531237
+        ]
+      },
+      "properties": {
+        "名称": "日本歯科大学(東京キャンパス)",
+        "高さ": "42.8",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7472413036,
+          35.6962174339
+        ]
+      },
+      "properties": {
+        "名称": "区立九段中等教育学校",
+        "高さ": "31.3",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7461371933,
+          35.697354634
+        ]
+      },
+      "properties": {
+        "名称": "区立富士見小学校",
+        "高さ": "29.7",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7320092198,
+          35.6833945545
+        ]
+      },
+      "properties": {
+        "名称": "上智大学(四谷キャンパス)",
+        "高さ": "30.2",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7368001106,
+          35.6854142732
+        ]
+      },
+      "properties": {
+        "名称": "グロービス経営大学院大学",
+        "高さ": "48.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7447817039,
+          35.6996769042
+        ]
+      },
+      "properties": {
+        "名称": "日本歯科大学東京短期大学",
+        "高さ": "25.7",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7374633913,
+          35.6911280137
+        ]
+      },
+      "properties": {
+        "名称": "日本大学",
+        "高さ": "40.3",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7372882709,
+          35.6860643446
+        ]
+      },
+      "properties": {
+        "名称": "ビジネス・ブレークスルー大学",
+        "高さ": "31.8",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737666581,
+          35.6821831131
+        ]
+      },
+      "properties": {
+        "名称": "城西国際大学東京紀尾井町キャンパス",
+        "高さ": "36.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7459570536,
+          35.696483744
+        ]
+      },
+      "properties": {
+        "名称": "東京理科大学富士見校舎",
+        "高さ": "28.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7424152326,
+          35.697159004
+        ]
+      },
+      "properties": {
+        "名称": "東京逓信病院",
+        "高さ": "52.7",
+        "種類": "病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7332616906,
+          35.6845034842
+        ]
+      },
+      "properties": {
+        "名称": "麹町本通郵便局",
+        "高さ": "9.5",
+        "種類": "郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7492037742,
+          35.6993410429
+        ]
+      },
+      "properties": {
+        "名称": "麹町飯田橋通郵便局",
+        "高さ": "38.2",
+        "種類": "郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7422224809,
+          35.6795385624
+        ]
+      },
+      "properties": {
+        "名称": "首都高速道路株式会社西東京管理局",
+        "高さ": "40.6",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7392582289,
+          35.6739077631
+        ]
+      },
+      "properties": {
+        "名称": "四国旅客鉄道株式会社東京事務所",
+        "高さ": "43",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7340813007,
+          35.6857773136
+        ]
+      },
+      "properties": {
+        "名称": "株式会社セブン＆アイ・ホールディングス",
+        "高さ": "64.4",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.746515784,
+          35.6932923232
+        ]
+      },
+      "properties": {
+        "名称": "千秋文庫博物館",
+        "高さ": "39.1",
+        "種類": "博物館・美術館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7428853417,
+          35.6860070536
+        ]
+      },
+      "properties": {
+        "名称": "日本カメラ博物館",
+        "高さ": "30.6",
+        "種類": "博物館・美術館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7411589819,
+          35.6898907242
+        ]
+      },
+      "properties": {
+        "名称": "大妻女子大学博物館",
+        "高さ": "28",
+        "種類": "博物館・美術館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7708080362,
+          35.6974809918
+        ]
+      },
+      "properties": {
+        "名称": "関東地方整備局東京国道事務所万世橋出張所",
+        "高さ": "16.1",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7552728219,
+          35.6933478662
+        ]
+      },
+      "properties": {
+        "名称": "関東公安調査局",
+        "高さ": "66.4",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7544895843,
+          35.6936620706
+        ]
+      },
+      "properties": {
+        "名称": "東京法務局",
+        "高さ": "60.4",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7535629471,
+          35.6939706173
+        ]
+      },
+      "properties": {
+        "名称": "東京労働局",
+        "高さ": "108.7",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7585659114,
+          35.6768202203
+        ]
+      },
+      "properties": {
+        "名称": "皇居外苑管理事務所",
+        "高さ": "8.9",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7599288644,
+          35.6926975417
+        ]
+      },
+      "properties": {
+        "名称": "東京国税局神田税務署",
+        "高さ": "37.2",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7543612602,
+          35.6703589412
+        ]
+      },
+      "properties": {
+        "名称": "国立社会保障・人口問題研究所",
+        "高さ": "126",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516593127,
+          35.6904956719
+        ]
+      },
+      "properties": {
+        "名称": "皇居外苑管理事務所北の丸分室",
+        "高さ": "7.3",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762681644,
+          35.6895232518
+        ]
+      },
+      "properties": {
+        "名称": "東京国税局京橋税務署",
+        "高さ": "74.7",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7521673433,
+          35.6960529025
+        ]
+      },
+      "properties": {
+        "名称": "千代田保健所",
+        "高さ": "31.4",
+        "種類": "保健所"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7656253024,
+          35.6763596606
+        ]
+      },
+      "properties": {
+        "名称": "丸の内警察署",
+        "高さ": "117.9",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7620846143,
+          35.692996022
+        ]
+      },
+      "properties": {
+        "名称": "神田警察署",
+        "高さ": "28.7",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7718198365,
+          35.6973193115
+        ]
+      },
+      "properties": {
+        "名称": "万世橋警察署",
+        "高さ": "55.5",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759754863,
+          35.6832476511
+        ]
+      },
+      "properties": {
+        "名称": "丸の内警察署桔梗門警備派出所",
+        "高さ": "4.9",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7595362525,
+          35.6792864915
+        ]
+      },
+      "properties": {
+        "名称": "丸の内警察署皇居前警備派出所",
+        "高さ": "9.4",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7655734733,
+          35.6806310629
+        ]
+      },
+      "properties": {
+        "名称": "丸の内警察署東京駅前交番",
+        "高さ": "37.2",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7560171812,
+          35.6710597405
+        ]
+      },
+      "properties": {
+        "名称": "丸の内警察署内幸町交番",
+        "高さ": "15.2",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7591333223,
+          35.6749309604
+        ]
+      },
+      "properties": {
+        "名称": "丸の内警察署日比谷公園前交番",
+        "高さ": "5.9",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7638995426,
+          35.6751081209
+        ]
+      },
+      "properties": {
+        "名称": "丸の内警察署有楽町駅前交番",
+        "高さ": "7.1",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7624426834,
+          35.6835719608
+        ]
+      },
+      "properties": {
+        "名称": "丸の内警察署和田倉門外交番",
+        "高さ": "6.5",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7511160041,
+          35.6952171328
+        ]
+      },
+      "properties": {
+        "名称": "麹町警察署九段下交番",
+        "高さ": "6.3",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7632452256,
+          35.6999438617
+        ]
+      },
+      "properties": {
+        "名称": "神田警察署お茶の水交番",
+        "高さ": "11.4",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7676461753,
+          35.6930036513
+        ]
+      },
+      "properties": {
+        "名称": "神田警察署司町交番",
+        "高さ": "7.3",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7580678047,
+          35.694841372
+        ]
+      },
+      "properties": {
+        "名称": "神田警察署神保町交番",
+        "高さ": "49.5",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516656052,
+          35.7024426536
+        ]
+      },
+      "properties": {
+        "名称": "神田警察署水道橋駅前交番",
+        "高さ": "15.8",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7745748872,
+          35.6954230807
+        ]
+      },
+      "properties": {
+        "名称": "万世橋警察署岩本町交番",
+        "高さ": "9.7",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7724432578,
+          35.6998131056
+        ]
+      },
+      "properties": {
+        "名称": "万世橋警察署秋葉原交番",
+        "高さ": "106.1",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780241018,
+          35.6970397906
+        ]
+      },
+      "properties": {
+        "名称": "万世橋警察署美倉橋交番",
+        "高さ": "5.8",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7633227314,
+          35.672856312
+        ]
+      },
+      "properties": {
+        "名称": "築地警察署数寄屋橋交番",
+        "高さ": "10.5",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7615763977,
+          35.6888253672
+        ]
+      },
+      "properties": {
+        "名称": "東京消防庁",
+        "高さ": "115.4",
+        "種類": "消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7721163053,
+          35.6912792007
+        ]
+      },
+      "properties": {
+        "名称": "東京消防庁神田消防署鍛冶町出張所",
+        "高さ": "19.5",
+        "種類": "消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7729652777,
+          35.7013977714
+        ]
+      },
+      "properties": {
+        "名称": "東京消防庁神田消防署",
+        "高さ": "48.8",
+        "種類": "消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7521074149,
+          35.7000491734
+        ]
+      },
+      "properties": {
+        "名称": "東京消防庁神田消防署三崎町出張所",
+        "高さ": "26.8",
+        "種類": "消防署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7620121648,
+          35.6926419912
+        ]
+      },
+      "properties": {
+        "名称": "私立錦城学園高等学校",
+        "高さ": "25.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7615463546,
+          35.6926500915
+        ]
+      },
+      "properties": {
+        "名称": "私立正則学園高等学校",
+        "高さ": "42",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7682991255,
+          35.693131801
+        ]
+      },
+      "properties": {
+        "名称": "区立千代田小学校",
+        "高さ": "34.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7568002146,
+          35.6941593721
+        ]
+      },
+      "properties": {
+        "名称": "区立神田一橋中学校",
+        "高さ": "22",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7604565954,
+          35.6973642122
+        ]
+      },
+      "properties": {
+        "名称": "区立お茶の水小学校",
+        "高さ": "25.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.763627885,
+          35.6976128025
+        ]
+      },
+      "properties": {
+        "名称": "日本大学(理工学部駿河台キャンパス)",
+        "高さ": "32.2",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7634745075,
+          35.6982425223
+        ]
+      },
+      "properties": {
+        "名称": "日本大学(歯学部)",
+        "高さ": "47.6",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7580836551,
+          35.6995382931
+        ]
+      },
+      "properties": {
+        "名称": "私立神田女学園高等学校",
+        "高さ": "38.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.755944561,
+          35.701361882
+        ]
+      },
+      "properties": {
+        "名称": "私立東洋高等学校",
+        "高さ": "59.7",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7548644651,
+          35.6945310181
+        ]
+      },
+      "properties": {
+        "名称": "共立女子短期大学",
+        "高さ": "30.9",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7542649948,
+          35.6997101629
+        ]
+      },
+      "properties": {
+        "名称": "日本大学(法学部)",
+        "高さ": "39.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7562559754,
+          35.7002444095
+        ]
+      },
+      "properties": {
+        "名称": "日本大学(経済学部)",
+        "高さ": "42.9",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7614184061,
+          35.6975744826
+        ]
+      },
+      "properties": {
+        "名称": "明治大学(駿河台キャンパス)",
+        "高さ": "115.6",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7699385667,
+          35.7011611717
+        ]
+      },
+      "properties": {
+        "名称": "区立昌平小学校",
+        "高さ": "31.1",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7539730861,
+          35.6968836664
+        ]
+      },
+      "properties": {
+        "名称": "専修大学(神田キャンパス)",
+        "高さ": "62",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7580584246,
+          35.6935116019
+        ]
+      },
+      "properties": {
+        "名称": "共立女子大学",
+        "高さ": "69.5",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7785673781,
+          35.6993585004
+        ]
+      },
+      "properties": {
+        "名称": "区立和泉小学校",
+        "高さ": "35.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7810051375,
+          35.6945388207
+        ]
+      },
+      "properties": {
+        "名称": "都立一橋高等学校",
+        "高さ": "27.8",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7559568821,
+          35.6979384118
+        ]
+      },
+      "properties": {
+        "名称": "私立大原学園高等学校",
+        "高さ": "31.2",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7548916254,
+          35.6998263831
+        ]
+      },
+      "properties": {
+        "名称": "LEC東京リーガルマインド大学院大学",
+        "高さ": "30.2",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7666101157,
+          35.6986315318
+        ]
+      },
+      "properties": {
+        "名称": "デジタルハリウッド大学",
+        "高さ": "125.7",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7579128044,
+          35.6925537025
+        ]
+      },
+      "properties": {
+        "名称": "一橋大学千代田キャンパス",
+        "高さ": "113.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7556426824,
+          35.6987501598
+        ]
+      },
+      "properties": {
+        "名称": "大原大学院大学",
+        "高さ": "34.9",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7614566865,
+          35.6723821248
+        ]
+      },
+      "properties": {
+        "名称": "区立泰明小学校",
+        "高さ": "18.2",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7549278017,
+          35.7013359583
+        ]
+      },
+      "properties": {
+        "名称": "東京歯科大学（水道橋校舎本館）",
+        "高さ": "66.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7552960668,
+          35.7002177051
+        ]
+      },
+      "properties": {
+        "名称": "東京歯科大学（水道橋校舎新館）",
+        "高さ": "68.6",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759046216,
+          35.7009569421
+        ]
+      },
+      "properties": {
+        "名称": "東京歯科大学（さいかち坂校舎）",
+        "高さ": "38.4",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7669193328,
+          35.6779821302
+        ]
+      },
+      "properties": {
+        "名称": "SBI大学院大学",
+        "高さ": "151.8",
+        "種類": "学校"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7612947254,
+          35.7001581622
+        ]
+      },
+      "properties": {
+        "名称": "三楽病院",
+        "高さ": "39.4",
+        "種類": "病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7626858154,
+          35.6972956818
+        ]
+      },
+      "properties": {
+        "名称": "日本大学病院",
+        "高さ": "64.4",
+        "種類": "病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7629536157,
+          35.6984454624
+        ]
+      },
+      "properties": {
+        "名称": "佐々木研究所附属杏雲堂病院",
+        "高さ": "45.1",
+        "種類": "病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779355348,
+          35.6999236802
+        ]
+      },
+      "properties": {
+        "名称": "三井記念病院",
+        "高さ": "86.2",
+        "種類": "病院"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7620935954,
+          35.6961376428
+        ]
+      },
+      "properties": {
+        "名称": "小川町郵便局",
+        "高さ": "14.9",
+        "種類": "郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7688064365,
+          35.6975383507
+        ]
+      },
+      "properties": {
+        "名称": "神田郵便局",
+        "高さ": "40.7",
+        "種類": "郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7696351657,
+          35.6934824115
+        ]
+      },
+      "properties": {
+        "名称": "神田駅前郵便局",
+        "高さ": "18.9",
+        "種類": "郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7585923749,
+          35.695193122
+        ]
+      },
+      "properties": {
+        "名称": "神田南神保町郵便局",
+        "高さ": "43.5",
+        "種類": "郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7625658255,
+          35.7002385219
+        ]
+      },
+      "properties": {
+        "名称": "神田駿河台郵便局",
+        "高さ": "33.2",
+        "種類": "郵便局"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7552043711,
+          35.6706113611
+        ]
+      },
+      "properties": {
+        "名称": "日本原子力研究開発機構(東京事務所)",
+        "高さ": "125.8",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7504593047,
+          35.6708698141
+        ]
+      },
+      "properties": {
+        "名称": "首都高速道路株式会社",
+        "高さ": "74.6",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7619642731,
+          35.6800455803
+        ]
+      },
+      "properties": {
+        "名称": "成田国際空港株式会社(東京事務所)",
+        "高さ": "50.7",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7688529158,
+          35.6829248682
+        ]
+      },
+      "properties": {
+        "名称": "東海旅客鉄道株式会社(新幹線鉄道事業本部)",
+        "高さ": "69.9",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7620199415,
+          35.6763141804
+        ]
+      },
+      "properties": {
+        "名称": "西日本旅客鉄道株式会社(東京本部)",
+        "高さ": "45.7",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.767030714,
+          35.6849229103
+        ]
+      },
+      "properties": {
+        "名称": "大阪ガス株式会社(東京支社)",
+        "高さ": "43.4",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7542624706,
+          35.6709917312
+        ]
+      },
+      "properties": {
+        "名称": "中部電力株式会社(東京支社)",
+        "高さ": "49.1",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7631834929,
+          35.6839511841
+        ]
+      },
+      "properties": {
+        "名称": "四国電力株式会社(東京支社)",
+        "高さ": "36.3",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7615267323,
+          35.6745486817
+        ]
+      },
+      "properties": {
+        "名称": "九州電力株式会社(東京支社)",
+        "高さ": "87.8",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7653636849,
+          35.6927147515
+        ]
+      },
+      "properties": {
+        "名称": "日本原子力発電株式会社(本店)",
+        "高さ": "49.9",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757380881,
+          35.6713396598
+        ]
+      },
+      "properties": {
+        "名称": "エヌ・ティ・ティ・コミュニケーションズ株式会社",
+        "高さ": "49.7",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7610816797,
+          35.6767412776
+        ]
+      },
+      "properties": {
+        "名称": "出光興産株式会社",
+        "高さ": "45.2",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7620444594,
+          35.6861265212
+        ]
+      },
+      "properties": {
+        "名称": "ＪＸＴＧエネルギー株式会社大手町本社",
+        "高さ": "115.8",
+        "種類": "指定公共機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7531093008,
+          35.6915752801
+        ]
+      },
+      "properties": {
+        "名称": "科学技術館",
+        "高さ": "32.5",
+        "種類": "博物館・美術館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7546154925,
+          35.6905543848
+        ]
+      },
+      "properties": {
+        "名称": "東京国立近代美術館",
+        "高さ": "22.2",
+        "種類": "博物館・美術館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7632897235,
+          35.6782933086
+        ]
+      },
+      "properties": {
+        "名称": "三菱一号館美術館",
+        "高さ": "24.3",
+        "種類": "博物館・美術館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7471236101,
+          35.6712406922
+        ]
+      },
+      "properties": {
+        "名称": "霞が関ビルディング",
+        "高さ": "152.6",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7407461096,
+          35.6731105723
+        ]
+      },
+      "properties": {
+        "名称": "山王パークタワー",
+        "高さ": "196.2",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7385636098,
+          35.6760652828
+        ]
+      },
+      "properties": {
+        "名称": "プルデンシャルタワー",
+        "高さ": "158.4",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7370281095,
+          35.6795752031
+        ]
+      },
+      "properties": {
+        "名称": "東京ガーデンテラス紀尾井町",
+        "高さ": "178.8",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7354252099,
+          35.679956354
+        ]
+      },
+      "properties": {
+        "名称": "ホテルニューオータニガーデンコートタワー",
+        "高さ": "134.2",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7591895117,
+          35.6736855899
+        ]
+      },
+      "properties": {
+        "名称": "東京ミッドタウン日比谷",
+        "高さ": "189.6",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7614398133,
+          35.6777593812
+        ]
+      },
+      "properties": {
+        "名称": "丸の内二重橋ビル",
+        "高さ": "151.9",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7630933126,
+          35.6790033405
+        ]
+      },
+      "properties": {
+        "名称": "丸の内パークビルディング",
+        "高さ": "175.6",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647715135,
+          35.6797408007
+        ]
+      },
+      "properties": {
+        "名称": "JPタワー",
+        "高さ": "206.3",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7648841129,
+          35.6785463705
+        ]
+      },
+      "properties": {
+        "名称": "東京ビルTOKIA",
+        "高さ": "170.4",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7673586131,
+          35.6786400706
+        ]
+      },
+      "properties": {
+        "名称": "グラントウキョウサウスタワー",
+        "高さ": "214",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7637481129,
+          35.6810538003
+        ]
+      },
+      "properties": {
+        "名称": "丸の内ビルディング",
+        "高さ": "184.2",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7642849132,
+          35.6826034212
+        ]
+      },
+      "properties": {
+        "名称": "新丸の内ビルディング",
+        "高さ": "203",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7646839138,
+          35.6836139013
+        ]
+      },
+      "properties": {
+        "名称": "日本工業倶楽部会館",
+        "高さ": "151.8",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7654078135,
+          35.6855177014
+        ]
+      },
+      "properties": {
+        "名称": "大手町タワー",
+        "高さ": "199.6",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7654166136,
+          35.6870113612
+        ]
+      },
+      "properties": {
+        "名称": "東京サンケイビル",
+        "高さ": "146.5",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7644856138,
+          35.6871457506
+        ]
+      },
+      "properties": {
+        "名称": "読売新聞社東京本社",
+        "高さ": "203",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7623010139,
+          35.688718381
+        ]
+      },
+      "properties": {
+        "名称": "日経ビル",
+        "高さ": "160.6",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762823914,
+          35.6886814611
+        ]
+      },
+      "properties": {
+        "名称": "JAビル",
+        "高さ": "184.3",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647819145,
+          35.6884399704
+        ]
+      },
+      "properties": {
+        "名称": "大手町フィナンシャルシティ  グランキューブ",
+        "高さ": "167.8",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7657677145,
+          35.6877754307
+        ]
+      },
+      "properties": {
+        "名称": "大手町フィナンシャルシティ　サウスタワー",
+        "高さ": "180.1",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7676264145,
+          35.6869660109
+        ]
+      },
+      "properties": {
+        "名称": "大手町プレイス",
+        "高さ": "187.3",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768660014,
+          35.6837169111
+        ]
+      },
+      "properties": {
+        "名称": "サピアタワー",
+        "高さ": "173.9",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7689685135,
+          35.6815620103
+        ]
+      },
+      "properties": {
+        "名称": "グラントウキョウ  ノースタワー",
+        "高さ": "209",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7693108145,
+          35.6824477103
+        ]
+      },
+      "properties": {
+        "名称": "丸の内トラストタワー本館",
+        "高さ": "178.5",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7673707163,
+          35.6976139821
+        ]
+      },
+      "properties": {
+        "名称": "ワテラス　タワーレジデンス",
+        "高さ": "164.6",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.743723314,
+          35.6988670441
+        ]
+      },
+      "properties": {
+        "名称": "飯田橋サクラテラス",
+        "高さ": "150.4",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7505627149,
+          35.7004416629
+        ]
+      },
+      "properties": {
+        "名称": "アイガーデンエアタワー",
+        "高さ": "154.2",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7721271163,
+          35.6992062206
+        ]
+      },
+      "properties": {
+        "名称": "秋葉原ダイビル",
+        "高さ": "150.4",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7739894166,
+          35.7002837414
+        ]
+      },
+      "properties": {
+        "名称": "富士ソフト秋葉原ビル",
+        "高さ": "146.1",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7618742902,
+          35.665866
+        ]
+      },
+      "properties": {
+        "名称": "パナソニック汐留ミュージアム",
+        "高さ": "123.1",
+        "種類": "博物館・美術館"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7810695165,
+          35.6894557199
+        ]
+      },
+      "properties": {
+        "名称": "東京国税局日本橋税務署",
+        "高さ": "30.3",
+        "種類": "国の機関"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7720182833,
+          35.6706027691
+        ]
+      },
+      "properties": {
+        "名称": "中央区役所",
+        "高さ": "57.4",
+        "種類": "ランドマーク"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7847725167,
+          35.6883787183
+        ]
+      },
+      "properties": {
+        "名称": "久松警察署",
+        "高さ": "24.5",
+        "種類": "警察署"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714009318,
+          35.6701697788
+        ]
+      },
+      "properties": {
+        "名称": "築地警察署",
+        "高さ": "42",
+        "種類": "警察署"
+      }
+    }
+  ]
+}

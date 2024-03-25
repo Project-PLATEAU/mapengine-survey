@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  position: relative;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#viewerDiv {
+  height: 100%;
+}
+
+#viewerDiv > canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+h1 {
+  font-size: 1.25rem;
+}
+
+#legend-3dtiles {
+  height: 1.5em;
+  width: 1.5em;
+  background-color: #27ae60;
+  opacity: 50%;
+}
+
+#legend-mvt {
+  height: 1.5em;
+  width: 1.5em;
+  background-color: #cccccc;
+  opacity: 50%;
+}
+
+#legend-geojson {
+  height: 1.5em;
+  width: 1.5em;
+  border-radius: 50%;
+  border: solid 3px #e83929;
+}
