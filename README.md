@@ -47,7 +47,7 @@ $ npm run dev
 ###  - iTowns
 
 - `step2/itowns/`
-- http://127.0.0.1:5173/step2/itowns
+- http://127.0.0.1:5173/mapengine-survey/step2/itowns
 
 ### ArcGIS Maps SDK for JavaScript
 
