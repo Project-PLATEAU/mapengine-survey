@@ -32,6 +32,12 @@
             text-decoration: none;
             opacity: 0.7;
         }
+        a.disabled {
+            pointer-events: none;
+            cursor: default;
+            color: #ddd;
+            opacity: 0.75;
+        }
     </style>
 </head>
 <body>
@@ -41,50 +47,50 @@
         <h2>STEP 2 - 3D都市モデルの表示性能検証</h2>
         <div class="container">
             <div>
-                <a href="/step2/deckgl/index.html">deck.gl</a>
+                <a href="./step2/deckgl/index.html">deck.gl</a>
             </div>
             <div>
-                <a href="/step2/maplibre/index.html">MapLibre GL JS</a>
+                <a href="./step2/maplibre/index.html">MapLibre GL JS</a>
             </div>
             <div>
-                <a href="/step2/mapbox-v2/index.html">Mapbox GL JS (v2)</a>
-            </div>
-            <div>
-                <a href="/step2/mapbox-v3/index.html">Mapbox GL JS (v3)</a>
-            </div>
-            <div>
-                <a href="/step2/itowns/index.html">iTowns</a>
+                <a href="./step2/itowns/index.html">iTowns</a>
             </div>
             <div>
                 <a href="https://nasa-ammos.github.io/3DTilesRendererJS/example/bundle/index.html#https://assets.cms.plateau.reearth.io/assets/57/e338bc-4e38-447c-a82e-0f4a7b075ed0/13100_tokyo23-ku_2022_3dtiles_1_1_op_bldg_13104_shinjuku-ku_lod2/tileset.json">NASA-AMMOS/3DTilesRendererJS</a>
             </div>
             <div>
-                <a href="/step2/arcgis/index.html">ArcGIS Maps SDK for JavaScript</a>
+                <a class="disabled" href="./step2/mapbox-v2/index.html">Mapbox GL JS (v2)</a>
+            </div>
+            <div>
+                <a class="disabled" href="./step2/mapbox-v3/index.html">Mapbox GL JS (v3)</a>
+            </div>
+            <div>
+                <a  class="disabled" href="./step2/arcgis/index.html">ArcGIS Maps SDK for JavaScript</a>
             </div>
         </div>
 
         <h2>STEP 3 - 表現方法の調査</h2>
         <div class="container">
             <div>
-                <a href="/step3/deckgl-terrain/index.html">deck.gl: TerrainExtension - 距離に応じた建物色変化</a>
+                <a href="./step3/deckgl-terrain/index.html">deck.gl: TerrainExtension - 距離に応じた建物色変化</a>
             </div>
             <div>
-                <a href="/step3/deckgl-linelayer/index.html">deck.gl: LineLayer - 経路表示</a>
+                <a href="./step3/deckgl-linelayer/index.html">deck.gl: LineLayer - 経路表示</a>
             </div>
             <div>
-                <a href="/step3/deckgl-tripslayer/index.html">deck.gl: TripsLayer - 移動体の走行軌跡</a>
+                <a href="./step3/deckgl-tripslayer/index.html">deck.gl: TripsLayer - 移動体の走行軌跡</a>
             </div>
             <div>
-                <a href="/step3/deckgl-arclayer/index.html">deck.gl: ArcLayer - 拠点間の移動状況</a>
+                <a href="./step3/deckgl-arclayer/index.html">deck.gl: ArcLayer - 拠点間の移動状況</a>
             </div>
             <div>
-                <a href="/step3/deckgl-heatmaplayer/index.html">deck.gl HeatmapLayer: ヒートマップ</a>
+                <a href="./step3/deckgl-heatmaplayer/index.html">deck.gl HeatmapLayer: ヒートマップ</a>
             </div>
             <div>
-                <a href="/step3/maplibre-heatmap/index.html">MapLibre GL JS - ヒートマップ</a>
+                <a href="./step3/maplibre-heatmap/index.html">MapLibre GL JS - ヒートマップ</a>
             </div>
             <div>
-                <a href="/step3/maplibre-cluster/index.html">MapLibre GL JS - クラスター</a>
+                <a href="./step3/maplibre-cluster/index.html">MapLibre GL JS - クラスター</a>
             </div>
 
         </div>
