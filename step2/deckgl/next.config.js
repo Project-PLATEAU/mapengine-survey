@@ -5,8 +5,8 @@ const nextConfig = {
     esmExternals: "loose",
   },
   output: "export",
-  assetPrefix: "/step2/deckgl",
-  basePath: "/step2/deckgl",
+  assetPrefix: "/mapengine-survey/step2/deckgl",
+  basePath: "/mapengine-survey/step2/deckgl",
 };
 
 module.exports = nextConfig;

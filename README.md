@@ -25,7 +25,7 @@ $ npm run dev
 ### deck.gl
 
 - `step2/deck.gl/`
-- http://localhost:3000/step2/deckgl
+- http://localhost:3000/mapengine-survey/step2/deckgl
 
 ### MapLibre GL JS
 
