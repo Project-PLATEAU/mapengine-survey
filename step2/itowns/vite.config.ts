@@ -1,13 +1,13 @@
-import { defineConfig } from 'vite'
+import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: '/step2/itowns',
+  base: "/mapengine-survey/step2/itowns",
   resolve: {
     alias: {
-      './runtimeConfig': './runtimeConfig.browser',
+      "./runtimeConfig": "./runtimeConfig.browser",
     },
   },
   define: {
-    'window.global': {},
+    "window.global": {},
   },
-})
+});
