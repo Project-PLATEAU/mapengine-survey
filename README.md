@@ -70,27 +70,27 @@ $ npm run dev
 ### deck.gl: TerrainExtension - 距離に応じた建物色変化
 
 - `step3/deckgl-terrain/`
-- http://127.0.0.1:5173/step3/deckgl-terrain/
+- http://127.0.0.1:5173/mapengine-survey/step3/deckgl-terrain/
 
 ### deck.gl: LineLayer - 経路表示
 
 - `step3/deckgl-linelayer/`
-- http://127.0.0.1:5173/step3/deckgl-linelayer/
+- http://127.0.0.1:5173/mapengine-survey/step3/deckgl-linelayer/
 
 ### deck.gl: TripsLayer - 移動体の走行軌跡
 
 - `step3/deckgl-tripslayer/`
-- http://127.0.0.1:5173/step3/deckgl-tripslayer/
+- http://127.0.0.1:5173/mapengine-survey/step3/deckgl-tripslayer/
 
 ### deck.gl: ArcLayer - 拠点間の移動状況
 
 - `step3/deckgl-arclayer/`
-- http://127.0.0.1:5173/step3/deckgl-arclayer/
+- http://127.0.0.1:5173/mapengine-survey/step3/deckgl-arclayer/
 
 ### deck.gl HeatmapLayer: ヒートマップ
 
 - `step3/deckgl-heatmaplayer/`
-- http://127.0.0.1:5173/step3/deckgl-heatmaplayer/
+- http://127.0.0.1:5173/mapengine-survey/step3/deckgl-heatmaplayer/
 
 ### MapLibre GL JS - ヒートマップ
 
