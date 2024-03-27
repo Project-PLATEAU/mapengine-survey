@@ -34,7 +34,7 @@
 
 	$: mapStyle = {
 		version: 8,
-		sprite: 'https://eukarya-pv30-data.s3.ap-northeast-1.amazonaws.com/sprite/mierune',
+		sprite: 'https://project-plateau.github.io/mapengine-survey/sprite/mierune',
 		sources: {
 			...backgroundSources,
 			...plateauSources,
